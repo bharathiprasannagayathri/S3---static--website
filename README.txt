@@ -11,7 +11,7 @@ A fully responsive static website hosted on **Amazon S3** with version control o
 
 # Live Website
 
-**Website URL:** [Visit Live Website](http://my-s3-website-dp2026.s3-website-ap-south-1.amazonaws.com)
+Website URL: http://anjali333.s3-website.ap-south-1.amazonaws.com
 
 #Project Structure
 
